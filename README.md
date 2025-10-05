@@ -21,11 +21,12 @@ Hi there! I'm **Ashok**, a passionate developer with a love for learning and bui
 
 ## 🏆 Feature Projects
 
-### 🌳 Deforestation Detection using AI/ML
+### 🌳 Fire Classification for Deforestation
 
-Detecting fire-prone deforested areas using ML models trained on geospatial fire datasets. Includes EDA, classification, and visualizations using Python.
+Detecting fire type by using Machine learning models trained on MODIS satellite geospatial fire datasets. Includes EDA, classification, and visualisations using Python.
 
 🔗 [View Project Repository](https://github.com/cj7-code-journey/Fire_Classification_Edunet)
+🔗 [🛑Live demo by using streamlit app](https://fire-classification.streamlit.app/)
 
 ### 🔐 Secure Data Hiding in Images Using Steganography
 
