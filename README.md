@@ -33,6 +33,7 @@ Detecting fire type by using Machine learning models trained on MODIS satellite 
 A Python-based project that hides encrypted messages inside images using steganography and cryptography.
 
 🔗 [View Project Repository](https://github.com/cj7-code-journey/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY)
+🔗 [🛑Live demo by using streamlit app](https://image-steganography-app.streamlit.app/)
 
 ### ♻️ CNN Model for Plastic Waste Classification
 
