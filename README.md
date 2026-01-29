@@ -8,9 +8,9 @@
 </p>
 
 - 🔭 I’m currently working on AI/ML and Web development project
-- 🌱 I’m currently learning Web development, sometimes Cybersecurity and Artificial intelligence topics
+- 🌱 I’m currently learning Web development, sometimes Caybersecurity and Artificial intelligence topics
 - 👨‍💻 All of my projects are available at https://github.com/cj7-code-journey
-- 💬 Ask me about ...
+- 💬 Ask me about Frontend Technology, Programming, Cybersecurity, AI and ML Foundamentals, Software Tools.
 - 📫 How to reach me: https://www.linkedin.com/in/ashok-kumar-in
   
 ## 👋 About Me
@@ -21,32 +21,48 @@ Hi there! I'm **Ashok**, a passionate developer with a love for learning and bui
 
 ## 🏆 Feature Projects
 
-### 🌳 Fire Classification for Deforestation
-
-Detecting fire type by using Machine learning models trained on MODIS satellite geospatial fire datasets. Includes EDA, classification, and visualisations using Python.
-
-🔗 [View Project Repository](https://github.com/cj7-code-journey/Fire_Classification_Edunet)
-🔗 [🛑Live demo by using streamlit app](https://fire-classification.streamlit.app/)
-
-### 🔐 Secure Data Hiding in Images Using Steganography
-
-A Python-based project that hides encrypted messages inside images using steganography and cryptography.
-
-🔗 [View Project Repository](https://github.com/cj7-code-journey/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY)
-🔗 [🛑Live demo by using streamlit app](https://image-steganography-app.streamlit.app/)
-
-### ♻️ CNN Model for Plastic Waste Classification
-
-This project focuses on building a Convolutional Neural Network (CNN) model to classify images of plastic waste into various categories. The primary goal is to enhance waste management systems by improving the segregation and recycling process using deep learning technologies.
-
-🔗 [View Project Repository](https://github.com/cj7-code-journey/Week-3-CNN-Plastic-Waste-Classification)
-
-### ☕ Indian Recipe Website
-
-A visually appealing and responsive web project showcasing traditional Indian recipes. Built to enhance frontend skills using HTML, CSS (Flexbox & Grid), and responsive design techniques with a focus on layout creativity and user-friendly UI.
-
-🔗 [View Project Repository](https://github.com/cj7-code-journey/odin-recipes)
-🔗 [🛑Live](https://cj7-code-journey.github.io/odin-recipes/)
-
+<table border="0">
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top">
+      <h3>🌳 Fire Classification</h3>
+      <p>Detecting fire type by using ML models trained on MODIS satellite datasets. Includes EDA and visualizations.</p>
+      <p>
+        <a href="https://github.com/cj7-code-journey/Fire_Classification_Edunet"><b>📂 Repo</b></a> | 
+        <a href="https://fire-classification.streamlit.app/"><b>🚀 Live Demo</b></a>
+      </p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top">
+      <h3>🔐 Secure Data Hiding</h3>
+      <p>A Python-based project that hides encrypted messages inside images using steganography and cryptography.</p>
+      <p>
+        <a href="https://github.com/cj7-code-journey/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY"><b>📂 Repo</b></a> | 
+        <a href="https://image-steganography-app.streamlit.app/"><b>🚀 Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Card 3 -->
+    <td width="50%" valign="top">
+      <h3>♻️ Plastic Waste CNN</h3>
+      <p>CNN model to classify plastic waste into categories to enhance recycling processes using Deep Learning.</p>
+      <p>
+        <a href="https://github.com/cj7-code-journey/Week-3-CNN-Plastic-Waste-Classification"><b>📂 Repo</b></a>
+      </p>
+    </td>
+    <!-- Card 4 -->
+    <td width="50%" valign="top">
+      <h3>☕ Indian Recipe Website</h3>
+      <p>A visually appealing and responsive web project showcasing traditional Indian recipes. Built to enhance frontend skills using HTML, CSS (Flexbox & Grid), and responsive design techniques with a focus on layout creativity and user-friendly UI.</p>
+      <p>
+        <a href="https://github.com/cj7-code-journey/odin-recipes"><b>📂 Repo</b></a> | 
+        <a href="https://cj7-code-journey.github.io/odin-recipes/"><b>🚀 Live</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
