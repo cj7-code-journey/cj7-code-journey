@@ -69,8 +69,10 @@ Hi there! I'm **Ashok**, a passionate developer with a love for learning and bui
 | rECENT dATE | tITLE | sHORT dESC... | tECHNOLOGIES uSED: | [📂rEPO nAME](rEPO url aDDERSS) | [🚀aPPnAME](lIVE url aDDERSS) |
 |  | 🧪Try Jekyll | build a 📝blog and try out stuff!👨‍💻 | SSG, jykell, Front Matter,, yml, Markdown, Github-pages for hosting | [📂try_jekyll_repo](https://github.com/cj7-code-journey/try_jekyll) | [🚀Try Jekyll](https://cj7-code-journey.github.io/try_jekyll/) |
 |  | 🌳 Fire Classification | Detecting fire type by using ML models trained on MODIS satellite datasets. Includes EDA and visualizations.|  Stack | [📂Fire Classcification_repo](https://github.com/cj7-code-journey/Fire_Classification_Edunet) | [🚀Fire Classification](https://fire-classification.streamlit.app) |
-| | Title | Short desc... | technologies used: | []() | []() |
-| | Paragraph | Text |
+| pAST dATE | 🔐 Secure Data Hiding | A Python-based project that hides encrypted messages inside images using steganography and cryptography. | tECHNOLOGIES uSED: | [📂Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY repo](https://github.com/cj7-code-journey/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY) | [🚀image-steganography-app](https://image-steganography-app.streamlit.app/) |
+| pAST dATE | ♻️ Plastic Waste CNN | CNN model to classify plastic waste into categories to enhance recycling processes using Deep Learning. | tECHNOLOGIES uSED: | [📂Week-3-CNN-Plastic-Waste-Classification repo](https://github.com/cj7-code-journey/Week-3-CNN-Plastic-Waste-Classification) | [🖥️local env] |
+| pAST dATE | ☕ Indian Recipe Website | sHORT dESC... | tECHNOLOGIES uSED: | [📂odin-recipes repo](https://github.com/cj7-code-journey/odin-recipes) | [🚀Indian recipes](https://cj7-code-journey.github.io/odin-recipes/) |
+| pAST dATE | tITLE | sHORT dESC... | tECHNOLOGIES uSED: | [📂rEPO nAME](rEPO url aDDERSS) | [🚀aPPnAME](lIVE url aDDERSS) |
 ---
 
 
