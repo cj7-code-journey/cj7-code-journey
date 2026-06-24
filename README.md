@@ -64,10 +64,13 @@ Hi there! I'm **Ashok**, a passionate developer with a love for learning and bui
   </tr>
 </table>
 
-| Name | Description | Stack | repo link | live link |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| 🧪Try Jekyll | build a 📝blog and try out stuff!👨‍💻 | SSG, jykell, Front Matter,, yml, Markdown, Github-pages for hosting | [📂try_jekyll_repo](https://github.com/cj7-code-journey/try_jekyll) | [🚀Try Jekyll](https://cj7-code-journey.github.io/try_jekyll/) |
-| Paragraph | Text |
+| Date | Name | Description | Stack | repo link | live link |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| rECENT dATE | tITLE | sHORT dESC... | tECHNOLOGIES uSED: | [📂rEPO nAME](rEPO url aDDERSS) | [🚀aPPnAME](lIVE url aDDERSS) |
+|  | 🧪Try Jekyll | build a 📝blog and try out stuff!👨‍💻 | SSG, jykell, Front Matter,, yml, Markdown, Github-pages for hosting | [📂try_jekyll_repo](https://github.com/cj7-code-journey/try_jekyll) | [🚀Try Jekyll](https://cj7-code-journey.github.io/try_jekyll/) |
+|  | 🌳 Fire Classification | Detecting fire type by using ML models trained on MODIS satellite datasets. Includes EDA and visualizations.|  Stack | [📂Fire Classcification_repo](https://github.com/cj7-code-journey/Fire_Classification_Edunet) | [🚀Fire Classification](https://fire-classification.streamlit.app) |
+| | Title | Short desc... | technologies used: | []() | []() |
+| | Paragraph | Text |
 ---
 
 
